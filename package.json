@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
